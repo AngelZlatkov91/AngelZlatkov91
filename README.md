@@ -48,7 +48,7 @@ Health-supplement e-commerce web app (my SoftUni graduation defense) — **Sprin
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelzlatkov-201b212b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/angel-zlatkov-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:angelzlatkov91@gmail.com)
 
 ---
