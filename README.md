@@ -33,7 +33,7 @@
 
 ### 📅 [Appoint-Booking](https://apppoint.net) — live booking platform *(in production)*
 A full booking platform: **Spring Boot + PostgreSQL** backend (domain-driven design, JWT/OAuth2, WebSocket + push notifications, scheduled jobs) and a **React Native (Expo)** app — **live on the Apple App Store**, releasing on Google Play.
-🔗 [App Store](https://apps.apple.com/app/id6784279012) · 🌐 [apppoint.net](https://apppoint.net)
+🔗 [App Store](https://apps.apple.com/app/id6784279012) ·🔗 [Google Play](https://play.google.com/store/apps/details?id=net.apppoint.app)  🌐 [apppoint.net](https://apppoint.net)
 
 ### 🍽️ [Restaurant Management System](https://github.com/AngelZlatkov91/Restorant-manager-service-systems)
 Microservices platform for restaurant operations — **7 Spring Boot services over Apache Kafka**, polyglot persistence (**MySQL + MongoDB**), an **Electron + React** order terminal, Node.js kitchen/bar displays, and a thermal receipt printer over serial port.
